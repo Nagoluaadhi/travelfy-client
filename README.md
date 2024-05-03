@@ -89,7 +89,7 @@ _Follow this simple steps:_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Nagoluaadhi/travelfy-client.git
+   https://github.com/Nagoluaadhi/travelfy-client.git
    ```
 2. Install NPM packages
    ```sh
