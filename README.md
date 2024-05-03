@@ -180,7 +180,7 @@ Distributed under the MIT License. See `License.txt` for more information.
 <p align="right"><a href="#top">back to top ^</a></p>
 
 
-[product-screenshot]: https://github.com/Nagoluaadhi/travelfy-client/src/assets/images/home.jpg
-[product-screenshot2]: https://github.com/Nagoluaadhi/travelfy-client/src/assets/images/explore.jpg
-[product-screenshot3]: https://github.com/Nagoluaadhi/travelfy-client/src/assets/images/mytrips.jpg
-[product-screenshot4]: https://github.com/Nagoluaadhi/travelfy-client/src/assets/images/weather.jpg
+[product-screenshot]: src/assets/images/home.jpg
+[product-screenshot2]: src/assets/images/explore.jpg
+[product-screenshot3]: src/assets/images/mytrips.jpg
+[product-screenshot4]: src/assets/images/weather.jpg
