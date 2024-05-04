@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nagoluaadhi/travelfy-client-master.git">
+  <a href="https://github.com/Nagoluaadhi/travelfy-client.git">
     <img src="src/assets/images/travelfy-logo-blue.jpg" alt="travelfy Logo" width="250" height="75" alt="Travelfy">
   </a>
   <h3 align="center">Travel planner</h3>
@@ -175,7 +175,6 @@ Your app is ready to be deployed!
 
 Distributed under the MIT License. See `License.txt` for more information.
 
-![license][license-shield]
 
 <p align="right"><a href="#top">back to top ^</a></p>
 
