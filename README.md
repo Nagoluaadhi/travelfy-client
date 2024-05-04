@@ -1,4 +1,4 @@
-# travelfy-client-master
+# travelfy-client
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
